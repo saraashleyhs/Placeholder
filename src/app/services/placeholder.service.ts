@@ -7,5 +7,4 @@ export class PlaceholderService {
 
   constructor() { }
 
-  changes
 }
